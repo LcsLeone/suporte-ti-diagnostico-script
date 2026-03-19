@@ -1,4 +1,4 @@
-# 💻 Diagnóstico Rápido - Suporte TI V1,0
+# 💻 Diagnóstico Rápido - Suporte TI V1.0
 
 Script simples em Python para diagnóstico básico de sistemas.
 
